@@ -37,10 +37,9 @@ def main():
     infofile.write("Mean sequence length: " + str(mean) + "\n")
     infofile.write("Number of sequences: " + str(len(sequence_length)+1) + "\n" + "\n")
     infofile.write("Tags:" + "\n")
-    prozente = 0
     for item in tagcount:
         prozentwert = tagcount[item]/totalcount
-        prozente += prozentwert
+        prozentwert = round(prozentwert * 100,2)
         infofile.write(item + "\t" + str(prozentwert) + "%" + "\n")
 
 
