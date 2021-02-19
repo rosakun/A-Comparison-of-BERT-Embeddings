@@ -1,0 +1,47 @@
+Max sequence length: 73
+Min sequence length: 2
+Mean sequence length: 18.6957928802589
+Number of sequences: 309
+
+Tags:
+NNP	4.76%
+,	6.44%
+NN	12.93%
+IN	9.94%
+NNS	4.57%
+CC	2.83%
+CD	1.83%
+VBZ	1.59%
+VBN	1.4%
+DT	9.68%
+TO	1.9%
+VB	4.47%
+JJ	3.73%
+VBG	1.71%
+.	5.23%
+RB	5.56%
+VBD	5.2%
+HYPH	0.26%
+PRP	7.01%
+JJS	0.07%
+POS	0.81%
+VBP	1.42%
+RP	0.98%
+FW	0.03%
+JJR	0.19%
+WP	0.57%
+MD	1.4%
+``	0.02%
+''	0.02%
+-LRB-	0.07%
+-RRB-	0.07%
+NNPS	0.1%
+:	0.22%
+PRP$	1.1%
+WRB	0.6%
+WDT	0.36%
+UH	0.5%
+EX	0.22%
+PDT	0.12%
+RBR	0.05%
+RBS	0.02%
