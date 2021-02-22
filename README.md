@@ -1,6 +1,6 @@
-# FINAL BOSS: The last NN Project
+# FINAL BOSS: The last NN Project (Christoph Otto, Maria Francis)
 
- This is the final project of my neural networks introductory course.
+ This is the final project of our neural networks introductory course.
 It is a POS-Tagger that uses a simple neural network.
 
 ### Table of Contents
