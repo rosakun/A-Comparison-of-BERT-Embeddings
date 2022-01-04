@@ -1,4 +1,4 @@
-# FINAL BOSS: The last NN Project
+A Comparison of BERT Embeddings
 
  This is the final project of my neural networks introductory course.
 It is a POS-Tagger that uses a simple neural network.
